@@ -1,0 +1,33 @@
+div{
+    color: white;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    transition: 2s;
+    margin: auto;
+    text-align: center;
+
+}
+div:hover{
+    box-shadow: 2px 2px 2000px black;
+    color: white;
+    background-color: black;
+    transition: 2s;
+
+}
+#yellow{
+    background-color: yellow;
+
+}
+#black{
+    background-color: black;
+
+}
+#green{
+    background-color: green;
+
+}
+#brown{
+    background-color: brown;
+
+}

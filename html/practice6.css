@@ -1,0 +1,30 @@
+p + h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+}
+div > input{
+    background-color: bisque;   
+}
+button:hover{
+    background-color: black;
+    color: aliceblue;
+}
+h3::first-letter{
+    text-decoration: underline;
+    
+}
+h1::first-letter{
+    color: aqua;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+#para ::first-line{
+    color: chartreuse;
+}
+p::selection{
+    color: limegreen;
+    padding-left: 50px;
+}
+

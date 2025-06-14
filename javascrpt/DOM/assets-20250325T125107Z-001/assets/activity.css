@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-left: 600px;
+    width: 100px;
+}
+.main{
+    margin-left: 400px;
+    text-align: center;
+    border-color: black;
+    border-style: dashed;
+    width: 500px;
+    height: 200px;
+}
